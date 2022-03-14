@@ -1,0 +1,24 @@
+{
+  "houses": [
+    {
+      "Name": "asdf",
+      "ownerName": "qwert",
+      "address": "zxcvb",
+      "areaCode": "123",
+      "rent": "3456",
+      "bachelor": "true",
+      "image": "saqwert",
+      "id": 1
+    },
+    {
+      "Name": "asddf",
+      "ownerName": "asdf",
+      "address": "aqwer",
+      "areaCode": "456",
+      "rent": "1234",
+      "married": "true",
+      "image": "asdqwert",
+      "id": 2
+    }
+  ]
+}
